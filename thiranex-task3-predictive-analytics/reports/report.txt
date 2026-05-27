@@ -1,0 +1,19 @@
+PREDICTIVE ANALYTICS USING HISTORICAL DATA
+==========================================
+
+PROJECT SUMMARY
+--------------------------
+Dataset Shape           : (6435, 8)
+Duplicate Rows Removed  : 0
+Missing Values Handled  : 0
+
+MODEL PERFORMANCE
+--------------------------
+Mean Absolute Error : 475,178.08
+R2 Score            : 0.0175
+
+FILES GENERATED
+--------------------------
+1. sales_predictions.csv
+2. sales_forecast.png
+3. report.txt
