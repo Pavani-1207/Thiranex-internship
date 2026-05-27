@@ -1,0 +1,24 @@
+CUSTOMER SEGMENTATION PROJECT
+====================================
+
+PROJECT SUMMARY
+--------------------------
+Dataset Shape           : (200, 6)
+Duplicate Rows Removed  : 0
+Missing Values Handled  : 0
+
+CUSTOMER SEGMENTS
+--------------------------
+         Annual Income (k$)  Spending Score (1-100)
+Cluster                                            
+0                 55.296296               49.518519
+1                 86.538462               82.128205
+2                 25.727273               79.363636
+3                 88.200000               17.114286
+4                 26.304348               20.913043
+
+FILES GENERATED
+--------------------------
+1. customer_segments.csv
+2. customer_segmentation.png
+3. report.txt
