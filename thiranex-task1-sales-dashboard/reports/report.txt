@@ -1,0 +1,25 @@
+SALES & REVENUE ANALYSIS DASHBOARD
+====================================
+
+PROJECT SUMMARY
+--------------------------
+Dataset Shape           : (9994, 21)
+Duplicate Rows Removed  : 0
+Missing Values Handled  : 0
+
+KPI SUMMARY
+--------------------------
+Total Sales      : $2,297,200.86
+Total Profit     : $286,397.02
+Total Orders     : 5009
+Top Product      : Phones
+Top Region       : West
+
+FILES GENERATED
+--------------------------
+1. cleaned_sales_data.csv
+2. kpi_summary.xlsx
+3. sales_by_region.png
+4. monthly_sales_trend.png
+5. top_products.png
+6. report.txt
