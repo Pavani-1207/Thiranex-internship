@@ -1,0 +1,24 @@
+DATA CLEANING & REPORTING AUTOMATION
+====================================
+
+PROJECT SUMMARY
+--------------------------
+Original Dataset Shape : (9994, 21)
+Duplicate Rows Removed : 0
+Missing Values Handled : 0
+
+KPI SUMMARY
+--------------------------
+Total Sales      : $2,297,200.86
+Total Profit     : $286,397.02
+Total Orders     : 5009
+Top Category     : Technology
+Top Sales Region : West
+
+GENERATED FILES
+--------------------------
+1. cleaned_sales_data.csv
+2. sales_by_category.png
+3. monthly_sales_trend.png
+4. profit_by_region.png
+5. report.txt
